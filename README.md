@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/joshhabka">
-    <img src="https://avatars.githubusercontent.com/u/108092727?v=4" alt="Josh Habka" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50; box-shadow: 0 0 20px #4CAF50;">
+    <img src="https://raw.githubusercontent.com/joshhabka/joshhabka/main/joshhabka-github-readme-logo.png" alt="Josh Habka" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50; box-shadow: 0 0 20px #4CAF50;">
   </a>
 </div>
 
