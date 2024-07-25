@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<h1 align="center">👋 Hello, I'm Josh Habka</h1>
+<h1 align="center">👋 Hello, I'm [Josh Habka](https://joshuahabka.com)</h1>
 
 <p align="center">
 
@@ -152,7 +152,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h3>
 <div align="center">
   
-⭐️ From [Josh Habka](https://github.com/joshhabka) | Let's innovate together! 🚀
+⭐️ From [Josh Habka](https://joshuahabka.com) | Let's innovate together! 🚀
 
 
 </div>
