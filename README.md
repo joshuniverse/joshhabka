@@ -78,7 +78,16 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud Computing, Artificial Intelligence/Machine Learning, and high-quality streaming technologies. With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
+I'm Josh Habka, an analog astronaut, science communicator, and biohacker with a deep passion for astronomy and space science. Currently a sophomore at the Florida Institute of Technology, I am pursuing a Bachelor's degree in Astronomy and Astrophysics and taking courses towards a Master's degree in Commercial Enterprise in Space. My work spans across various domains, and I leverage GitHub to contribute to projects that intersect with space research, science communication, and biohacking.
+
+**My Contributions**
+On this platform, you'll find repositories related to:
+
+Astrochain & Space Research Tools: Projects that support space research and astronomical data analysis, including tools for visualizing astronomical data and integrating blockchain technologies for secure data sharing.
+
+Science Communication Resources: Open-source projects aimed at enhancing science communication. This includes code for educational websites, interactive data visualizations, and digital tools designed to make complex scientific concepts more accessible.
+
+Community Projects: As the leader of the International Biohacking Community, I maintain and contribute to collaborative projects that foster innovation in biohacking and longevity. These repositories might include scripts, documentation, and tools used by our community members.
 
 </div>
 
