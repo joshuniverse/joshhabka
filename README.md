@@ -56,8 +56,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://discord.gg/YdDyV6QqEN" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2Fjosh&subtitle=discord%2Fgg/josh&size=square" alt="Josh Habka">
+      <a href="https://discord.gg/josh" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2Fjosh&subtitle=discord.gg/josh&size=square" alt="Josh Habka">
       </a>
     </td>
     <td align="center">
