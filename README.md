@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<h1 align="center">👋 Hello, I'm [Josh Habka](https://joshuahabka.com)</h1>
+<h1 align="center">🌌 Hello, I'm Josh Habka</h1>
 
 <p align="center">
 
