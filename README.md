@@ -118,9 +118,6 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       Dev Profile
     </th>
     <!-- roadmap.sh Profile Header -->
-    <th align="center">
-      roadmap.sh Profile
-    </th>
   </tr>
   <tr>
     <!-- Dev Profile -->
@@ -133,86 +130,29 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
   </tr>
 </table>
 
-
-<h3 align="center">Stack overflow</h3>
-<div align="center">
-<a href="https://stackoverflow.com/users/21519409/kenan-gain">
-<img src="https://stackoverflow.com/users/flair/21519409.png" width="208" height="58" />
-</a>
-</div>
-
 <h2 align="center">Support Me</h2>
 <div align="center">
   <table align="center">
     <tr>
       <th align="center">
-        <a href="https://www.buymeacoffee.com/kenangain" target="_blank">
+        <a href="https://www.buymeacoffee.com/joshhabka" target="_blank">
           <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px; width: 217px;">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://www.paypal.com/donate/?business=V6UVH9LBFUF26&no_recurring=0&currency_code=CAD" target="_blank">
-          <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" style="height: 90px; width: 217px;">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://donate.stripe.com/00gg0R3Kvh0HcGkfYY" target="_blank">
-          <img src="https://github.com/user-attachments/assets/1b7f4d55-f85c-47ac-adcc-05d9f7cd8134" alt="Donate with Stripe" style="height: 60px; width="200px">
-        </a>
-      </th>
-      <th align="center">
-        <a href="https://ko-fi.com/M4M410M65J" target="_blank">
-          <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
         </a>
       </th>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/KenanGain/KenanGain/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
-      </td>
-      <td align="center">
-       <img src="https://github.com/KenanGain/KenanGain/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/f7f4fefb-1a07-4390-b2ea-a4b40d4f19f6" alt="Stripe QR Code" width="150" height="150">
-      </td>
-      <td align="center">
-        <img src="https://storage.ko-fi.com/cdn/useruploads/M4M410M65J/qrcode.png?v=73a1af41-4248-463b-a7e8-77530b34d420?v=2" alt="Ko-fi QR Code" width="150" height="150">
+        <img src="https://raw.githubusercontent.com/joshhabka/joshhabka/main/bmc_qr.png" alt="Buy Me a Coffee QR Code" width="150" height="150">
       </td>
     </tr>
   </table>
-
-
-
-<h2 align="center">📫 Let's Connect!</h2>
-
-<table align="center">
-  <tr>
-    <td colspan="3" align="center">
-      <a href="mailto:kenangain2910@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=kenangain2910@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=Canada-4374364786&size=square" alt="Canada-+1-437-436-4786" style="margin: 10px;">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-8200280008&size=square" alt="India-+91-820-028-0008" style="margin: 10px;">
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 <br>
 
 <h3>
 <div align="center">
   
-⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! 🚀
+⭐️ From [Josh Habka](https://github.com/joshhabka) | Let's innovate together! 🚀
 
 
 </div>
