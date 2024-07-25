@@ -30,7 +30,7 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/univ/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%univ%2F&subtitle=@Univ+Gain&size=square" alt="Josh Habka">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Funiv%2F&subtitle=@Univ&size=square" alt="Josh Habka">
       </a>
     </td>
     <td align="center">
@@ -62,7 +62,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/joshhabka" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2Fjoshhabka&size=square" alt="Josh Habka">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FJoshHabka&subtitle=%2Fjoshhabka&size=square" alt="Josh Habka">
       </a>
     </td>
   </tr>
