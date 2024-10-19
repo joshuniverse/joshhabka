@@ -62,7 +62,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/joshuniverse" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FJoshUniverse&subtitle=%2Fjoshhabka&size=square" alt="Josh Universe">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FJoshUniverse&subtitle=%2Fjoshuniverse&size=square" alt="Josh Universe">
       </a>
     </td>
   </tr>
