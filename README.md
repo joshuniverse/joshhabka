@@ -161,7 +161,7 @@ Community Projects: As the leader of the International Biohacking Community, I m
 <h3>
 <div align="center">
   
-⭐️ From [Josh Habka](https://joshuniverse.com) | Let's innovate together! 🚀
+⭐️ From [Josh Universe](https://joshuniverse.com) | Let's innovate together! 🚀
 
 
 </div>
