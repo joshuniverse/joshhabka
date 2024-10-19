@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<h1 align="center">🌌 Hello, I'm Josh Habka</h1>
+<h1 align="center">🌌 Hello, I'm Josh Universe</h1>
 
 <p align="center">
 
@@ -15,12 +15,12 @@
   <tr>
     <td align="center">
       <a href="https://read.cv/astrojosh" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Josh+Habka&size=square" alt="Josh Habka">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Josh+Universe&size=square" alt="Josh Habka">
       </a>
     </td>
     <td align="center">
       <a href="https://www.youtube.com/@joshtospace" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%joshhabka&subtitle=@joshhabka&size=square" alt="joshhabka">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%joshtospace&subtitle=@joshtospace&size=square" alt="joshhabka">
       </a>
     </td>
     <td align="center">
@@ -30,12 +30,12 @@
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/univ/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Funiv%2F&subtitle=@Univ&size=square" alt="Josh Habka">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Funiv%2F&subtitle=@Univ&size=square" alt="Josh Universe">
       </a>
     </td>
     <td align="center">
       <a href="https://facebook.com/joshtospace" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fjoshtospace&subtitle=@joshtospace&size=square" alt="Josh Habka">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fjoshtospace&subtitle=@joshtospace&size=square" alt="Josh Universe">
       </a>
     </td>
   </tr>
@@ -47,22 +47,22 @@
     </td>
     <td align="center">
       <a href="https://x.com/joshtospace" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fjoshhabka&subtitle=@JoshHabka&size=square" alt="JoshHabka">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fjoshhabka&subtitle=@JoshHabka&size=square" alt="Josh Universe">
       </a>
     </td>
     <td align="center">
       <a href="https://www.reddit.com/user/realjoshuniverse" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FRealJoshUniverse&subtitle=r/RealJoshUniverse&size=square" alt="Josh Habka">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FRealJoshUniverse&subtitle=r/RealJoshUniverse&size=square" alt="Josh Universe">
       </a>
     </td>
     <td align="center">
       <a href="https://discord.gg/josh" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2Fjosh&subtitle=discord.gg/josh&size=square" alt="Josh Habka">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2Fjosh&subtitle=discord.gg/josh&size=square" alt="Josh Universe">
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/joshuniverse" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FJoshHabka&subtitle=%2Fjoshhabka&size=square" alt="Josh Habka">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FJoshHabka&subtitle=%2Fjoshhabka&size=square" alt="Josh Universe">
       </a>
     </td>
   </tr>
@@ -72,7 +72,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoshHabka&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+  <img src="https://komarev.com/ghpvc/?username=JoshUniversea&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
 
