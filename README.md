@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <div align="center">
-  <a href="https://github.com/joshhabka">
+  <a href="https://github.com/joshuniverse">
     <img src="https://raw.githubusercontent.com/joshhabka/joshhabka/main/joshhabka-github-readme-logo.png" alt="Josh Habka" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #4CAF50; box-shadow: 0 0 20px #4CAF50;">
   </a>
 </div>
@@ -19,7 +19,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.youtube.com/@joshhabka" target="_blank">
+      <a href="https://www.youtube.com/@joshtospace" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%joshhabka&subtitle=@joshhabka&size=square" alt="joshhabka">
       </a>
     </td>
@@ -46,7 +46,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://x.com/joshhabka" target="_blank">
+      <a href="https://x.com/joshtospace" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fjoshhabka&subtitle=@JoshHabka&size=square" alt="JoshHabka">
       </a>
     </td>
@@ -61,7 +61,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/joshhabka" target="_blank">
+      <a href="https://github.com/joshuniverse" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FJoshHabka&subtitle=%2Fjoshhabka&size=square" alt="Josh Habka">
       </a>
     </td>
@@ -78,7 +78,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-I'm Josh Habka, an analog astronaut, science communicator, and biohacker with a deep passion for astronomy and space science. Currently a sophomore at the Florida Institute of Technology, I am pursuing a Bachelor's degree in Astronomy and Astrophysics and taking courses towards a Master's degree in Commercial Enterprise in Space. My work spans across various domains, and I leverage GitHub to contribute to projects that intersect with space research, science communication, and biohacking.
+I'm Josh Universe, an analog astronaut, science communicator, and biohacker with a deep passion for astronomy and space science. Currently a sophomore at the Florida Institute of Technology, I am pursuing a Bachelor's degree in Astronomy and Astrophysics and taking courses towards a Master's degree in Commercial Enterprise in Space. My work spans across various domains, and I leverage GitHub to contribute to projects that intersect with space research, science communication, and biohacking.
 
 **My Contributions**
 On this platform, you'll find repositories related to:
@@ -161,7 +161,7 @@ Community Projects: As the leader of the International Biohacking Community, I m
 <h3>
 <div align="center">
   
-⭐️ From [Josh Habka](https://joshuahabka.com) | Let's innovate together! 🚀
+⭐️ From [Josh Habka](https://joshuniverse.com) | Let's innovate together! 🚀
 
 
 </div>
